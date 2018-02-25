@@ -52,3 +52,4 @@ DriveApp.getFileById(destSpreadsheet.getId()).setTrashed(true);
 }
 
 //find the extend of the universe
+//transcendence is relative
